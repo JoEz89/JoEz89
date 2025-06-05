@@ -27,8 +27,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JOETECH-DEV&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOETECH-DEV&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoEz89&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoEz89&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
