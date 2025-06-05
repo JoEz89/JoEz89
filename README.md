@@ -19,7 +19,21 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,flutter,ts,js,next,html,css,postgres,mysql,azure,docker,github,vscode" alt="Tech Stack" />
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
 </p>
 
 ---
@@ -33,11 +47,9 @@
 
 ---
 
-
 ### 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:joezif2014@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
   <a href="https://www.linkedin.com/in/yousif-elhassan-3345479a/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
 </p>
- 
